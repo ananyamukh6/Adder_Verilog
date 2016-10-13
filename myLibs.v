@@ -99,7 +99,7 @@ module my_xor(y, a, b);
   wire r1,r2,r3,r4,y;
   my_nor #2(r1,a,a);
   my_nor #2(r2,b,b);
-  my_nor $2(r3,a,b);
+  my_nor #2(r3,a,b);
   my_nor #2(r4,r1,r2);
   my_nor #2(y,r4,r3);
 
