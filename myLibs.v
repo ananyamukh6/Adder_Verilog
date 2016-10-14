@@ -11,6 +11,7 @@ module my_nor(y, a, b);
   nor #2(y,a,b);
 
   global_vars gv;
+  gv.count= gv.count+1;
 
   /* at instantiation increment the resources used */
  
@@ -26,9 +27,9 @@ module my_and(y, a, b);
   output y;
   input a, b;
   wire r1,r2;
-  nor #2(r1,a,a);
-  nor #2(r2,b,b);
-  nor #2(y,r1,r2);
+  my_nor #2(r1,a,a);
+  my_nor #2(r2,b,b);
+  my_nor #2(y,r1,r2);
 endmodule
 
 /* 3-input and gate using my_and
@@ -104,3 +105,4 @@ module my_xor(y, a, b);
   my_nor #2(y,r4,r3);
 
 endmodule
+
