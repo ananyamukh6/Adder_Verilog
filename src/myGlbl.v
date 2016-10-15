@@ -4,6 +4,7 @@
  */
 
 module global_vars;
+integer count;
 initial
-integer count=0;
+count=0;
 endmodule

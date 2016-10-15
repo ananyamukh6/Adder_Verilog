@@ -89,23 +89,23 @@ module cla_generator4(c, P, G, carry_in, p, g);
     my_or cc1(c[0], c11, g[0]);
     
     /* c2 */
-    my_and cc21(c21, carry_in, p[0], p[1]);
+    my_and3 cc21(c21, carry_in, p[0], p[1]);
     my_and cc22(c22, g[0], p[1]);
-    my_or cc2(c[1], c21, c22, g[1]);
+    my_or3 cc2(c[1], c21, c22, g[1]);
     
     /* c3 */
-    my_and cc31(c31, carry_in, p[0], p[1] ,p[2]);
-    my_and cc32(c32 ,g[0], p[1], p[2]);
+    my_and4 cc31(c31, carry_in, p[0], p[1] ,p[2]);
+    my_and3 cc32(c32 ,g[0], p[1], p[2]);
     my_and cc33(c33, g[1], p[2]);
-    my_or cc_o(c[2], g[2], c31, c32, c33);
+    my_or4 cc_o(c[2], g[2], c31, c32, c33);
     
     /* P */
-    my_and pp1(P, p[0], p[1], p[2], p[3]);
+    my_and4 pp1(P, p[0], p[1], p[2], p[3]);
     
     /* G */
-    my_and gg1(g_out1, p[1], p[2], p[3], g[0]);
-    my_and gg2(g_out2, p[2], p[3], g[1]);
+    my_and4 gg1(g_out1, p[1], p[2], p[3], g[0]);
+    my_and3 gg2(g_out2, p[2], p[3], g[1]);
     my_and gg3(g_out3, p[3], g[2]);
-    my_or gg_o(G, g_out1, g_out2 ,g_out3, g[3]);
+    my_or4 gg_o(G, g_out1, g_out2 ,g_out3, g[3]);
 endmodule
 

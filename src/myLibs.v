@@ -10,8 +10,8 @@ module my_nor(y, a, b);
   wire y;
   nor #2(y,a,b);
 
-  global_vars gv;
-  gv.count= gv.count+1;
+  //global_vars gv;
+  //gv.count= gv.count+1;
 
   /* at instantiation increment the resources used */
  
@@ -27,9 +27,9 @@ module my_and(y, a, b);
   output y;
   input a, b;
   wire r1,r2;
-  my_nor #2(r1,a,a);
-  my_nor #2(r2,b,b);
-  my_nor #2(y,r1,r2);
+  my_nor n1(r1,a,a);
+  my_nor n2(r2,b,b);
+  my_nor n3(y,r1,r2);
 endmodule
 
 /* 3-input and gate using my_and
@@ -39,8 +39,8 @@ module my_and3(y, a, b, c);
   output y;
   input a, b, c;
   wire r1,y;
-  my_and #2(r1,a,b);
-  my_and #2(y,r1,c);
+  my_and a1(r1,a,b);
+  my_and a2(y,r1,c);
 endmodule
 
 /* 4-input and gate using my_and
@@ -50,9 +50,9 @@ module my_and4(y, a, b, c, d);
   output y;
   input a, b, c, d;
   wire r1,r2,y;
-  my_and #2(r1,a,b);
-  my_and #2(r2,c,d);
-  my_and #2(y,r1,r2);
+  my_and a1(r1,a,b);
+  my_and a2(r2,c,d);
+  my_and a3(y,r1,r2);
   
 endmodule
 
@@ -63,8 +63,8 @@ module my_or(y, a, b);
   output y;
   input a, b;
   wire y,r1;
-  my_nor #2(r1,a,b);
-  my_nor #2(y,r1,r1);
+  my_nor n1(r1,a,b);
+  my_nor n2(y,r1,r1);
 endmodule
 
 /* 3-input or gate using my_or
@@ -74,8 +74,8 @@ module my_or3(y, a, b, c);
   output y;
   input a, b, c;
   wire y,r1;
-  my_or #2(r1,a,b);
-  my_or #2(y,c,r1);
+  my_or o1(r1,a,b);
+  my_or o2(y,c,r1);
 
 endmodule
 
@@ -86,9 +86,9 @@ module my_or4(y, a, b, c, d);
   output y;
   input a, b, c, d;
   wire r1,r2,y;
-  my_or #2(r1,a,b);
-  my_or #2(r2,c,d);
-  my_or #2(y,r1,r2);
+  my_or o1(r1,a,b);
+  my_or o2(r2,c,d);
+  my_or o3(y,r1,r2);
 endmodule
 
 /* 2-input xor gate using my_nor
@@ -98,11 +98,11 @@ module my_xor(y, a, b);
   output y;
   input a, b;
   wire r1,r2,r3,r4,y;
-  my_nor #2(r1,a,a);
-  my_nor #2(r2,b,b);
-  my_nor #2(r3,a,b);
-  my_nor #2(r4,r1,r2);
-  my_nor #2(y,r4,r3);
+  my_nor n1(r1,a,a);
+  my_nor n2(r2,b,b);
+  my_nor n3(r3,a,b);
+  my_nor n4(r4,r1,r2);
+  my_nor n5(y,r4,r3);
 
 endmodule
 
