@@ -30,4 +30,11 @@ if ! [ -d work ]; then
     vmap work work
 fi
 
-vlog Decoder_using_case_tb.v 
+vlog sample_rca_driver.v 
+
+if ! [ -d util ]; then
+    vlib util
+    vmap work util
+fi
+
+vlog util/sample_rca_toplevel.v 

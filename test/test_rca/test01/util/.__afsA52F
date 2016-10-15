@@ -32,5 +32,5 @@ if [ -f out.txt ]; then
     rm -r out.txt
 fi
 
-vsim -c -L $UXLIB -lic_plus -quiet -novopt -do util/simulate-do sample_rca_toplevel > transcript
+vsim -c -L $UXLIB -lic_plus -quiet -novopt -do simulate-do sample_cla_testbench > transcript
 cat out.txt 2> err.txt
