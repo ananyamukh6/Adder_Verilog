@@ -1,0 +1,6 @@
++ UXLIB=../../../bin
++ echo
++ '[' -f out.txt ']'
++ vsim -c -L ../../../bin -lic_plus -quiet -novopt -do ../util/simulate-do Decoder_using_case_tb
+Error loading design
++ cat out.txt

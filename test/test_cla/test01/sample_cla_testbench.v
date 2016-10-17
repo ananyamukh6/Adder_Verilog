@@ -44,18 +44,24 @@ module sample_cla_testbench;
 	
     initial begin
         descr = $fopen("out.txt");
+	//resources = global_vars.count;
 	/* print the number of gates used. */
+	$fdisplay(descr, "NOR Gates = %d", resources);
         $fmonitor(descr, "%0d - a: %d, b: %d, carry_in: %d, sum: %d, carry_out: %d",
             $time, a, b, carry_in, sum, carry_out);
     end
 
     initial begin		 
         a = 16'd10; b = 16'd22; carry_in = 0;
-        #38
-        a = 16'd120; b = 16'd82; carry_in = 0;
-        #26
-        a = 16'd928; b = 16'd910; carry_in = 1;
-        #22
-        a = 16'd7; b = 16'd1; carry_in = 1;
+        #40
+	a = 16'd10; b = 16'd22; carry_in = 1;
+        //a = 16'd120; b = 16'd82; carry_in = 0;
+        #40
+        //a = 16'd928; b = 16'd910; carry_in = 1;
+	a = 16'd10; b = 16'd22; carry_in = 0;	
+        #40
+	a = 16'd10; b = 16'd22; carry_in = 1;
+       // a = 16'd7; b = 16'd1; carry_in = 1;
     end
+
 endmodule

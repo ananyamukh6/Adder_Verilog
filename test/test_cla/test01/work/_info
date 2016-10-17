@@ -1,0 +1,259 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 d/homes/swkenney/enpm674_user/projects/project2/test/test_rca/test01
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+V1OA>Ok6oQPCOiIk1fhG0L0
+04 20 4 work sample_cla_testbench fast 0
+=1-0019b9bbf958-5804205b-dda24-7311
+o-quiet -auto_acc_if_foreign -work work -L ../../../bin
+n@_opt
+OL;O;10.2c;57
+Z1 d/homes/swkenney/enpm674_user/projects/project2/test/test_rca/test01
+!s110 1476665436
+vglobal_vars
+!s110 1476665952
+!s100 Vj=zRg^[:bR`^W9<8TTQK1
+I[=A6FSO[48a59?RYUdO952
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+Z3 d/homes/swkenney/enpm674_user/projects/project2/test/test_cla/test01
+Z4 w1476665944
+Z5 F../../../src/myGlbl.v
+Z6 8sample_cla_testbench.v
+Z7 Fsample_cla_testbench.v
+L0 6
+Z8 OL;L;10.2c;57
+r1
+31
+Z9 !s108 1476665952.131977
+Z10 !s107 ../../../src/myGlbl.v|sample_cla_testbench.v|
+Z11 !s90 sample_cla_testbench.v|
+Z12 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s85 0
+!i111 0
+vmy_and
+Z13 !s110 1476663526
+IKHMUSkS@C0=aBl0dfZC_:0
+R2
+R3
+w0
+Z14 8../../../src/myLibs.v
+Z15 F../../../src/myLibs.v
+L0 25
+R8
+r1
+31
+Z16 !s108 1476663526.266968
+Z17 !s107 ../../../src/myLibs.v|../../../src/myGlbl.v|sample_cla_testbench.v|
+R11
+R12
+!s100 442mFIfH1C0A1AeiJGXS@2
+!i10b 1
+!s85 0
+!i111 0
+vmy_and3
+R13
+IJC2dEd>O1jKFBVhS0OR`i2
+R2
+R3
+w0
+R14
+R15
+L0 37
+R8
+r1
+31
+R16
+R17
+R11
+R12
+!s100 i:dj3`c7@[`]h2zJ^dd`I2
+!i10b 1
+!s85 0
+!i111 0
+vmy_and4
+R13
+IBU?o_lgQNOgzR_PnFzaF60
+R2
+R3
+w0
+R14
+R15
+L0 48
+R8
+r1
+31
+R16
+R17
+R11
+R12
+!s100 a_87k3L?2kfg8D0okW0dB1
+!i10b 1
+!s85 0
+!i111 0
+vmy_or
+R13
+IV?B:Ujj>`@75hJQiId0oU1
+R2
+R3
+w0
+R14
+R15
+L0 61
+R8
+r1
+31
+R16
+R17
+R11
+R12
+!s100 olG_W0GzoK1f``:zL0?Nz1
+!i10b 1
+!s85 0
+!i111 0
+vmy_or3
+R13
+IR5Sb`Qoi;]:R_5g16lnC11
+R2
+R3
+w0
+R14
+R15
+L0 72
+R8
+r1
+31
+R16
+R17
+R11
+R12
+!s100 cjG<8JmCzQ=^_a@Q8VC3Z1
+!i10b 1
+!s85 0
+!i111 0
+vmy_or4
+R13
+IOFelh9R2P@AnBn:z;jD520
+R2
+R3
+w0
+R14
+R15
+L0 84
+R8
+r1
+31
+R16
+R17
+R11
+R12
+!s100 PAD]E@YLJoDf42j>Rz9iZ3
+!i10b 1
+!s85 0
+!i111 0
+vmy_xor
+R13
+IKDm=D<;7_5@e2VfPHP8f>2
+R2
+R3
+w0
+R14
+R15
+L0 96
+R8
+r1
+31
+R16
+R17
+R11
+R12
+!s100 [G>D542Nz6?0I5?XU^gci1
+!i10b 1
+!s85 0
+!i111 0
+vMyGlbl
+I=0OJ^8XcWc^_HFzBW1H`k3
+R2
+R3
+w1476660675
+R5
+R6
+R7
+L0 6
+R8
+r1
+31
+R11
+R12
+n@my@glbl
+R10
+!s108 1476660679.816829
+!s110 1476660679
+!s100 6Y4S66M5@d76LmARgY2XS0
+!i10b 1
+!s85 0
+!i111 0
+vsample_cla_testbench
+R2
+r1
+!s85 0
+31
+IhhlORATADa=[:QfVT@V<K0
+R3
+R4
+R6
+R7
+L0 32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+!s100 JPFn;`lZXNVgGmkd[]O0<0
+!i111 0
+vsample_rca_driver
+R2
+r1
+31
+IRQfJS0hndWgZnz2=V]JI62
+R1
+Z18 w1476633164
+8sample_rca_driver.v
+Fsample_rca_driver.v
+L0 31
+R8
+R12
+!s100 iG2XN>IGzYc]OQ5TNYMOg1
+!s90 sample_rca_driver.v|
+!s108 1476657153.863089
+!s107 sample_rca_driver.v|
+!s85 0
+!i10b 1
+!i111 0
+vsample_rca_toplevel
+R2
+r1
+31
+IiEo099FGMjAIG>7OEm9^f2
+R1
+R18
+8util/sample_rca_toplevel.v
+Futil/sample_rca_toplevel.v
+L0 30
+R8
+R12
+!s100 mM8<0H1=zodi=<QbT;<3^2
+!s90 util/sample_rca_toplevel.v|
+!s108 1476657153.984723
+!s107 util/sample_rca_toplevel.v|
+!s85 0
+!i10b 1
+!i111 0

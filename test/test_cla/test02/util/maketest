@@ -30,4 +30,4 @@ if ! [ -d work ]; then
     vmap work work
 fi
 
-vlog Decoder_using_case_tb.v 
+vlog sample_cla_testbench.v
