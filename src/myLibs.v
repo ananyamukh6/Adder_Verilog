@@ -15,7 +15,7 @@ module my_nor(y, a, b);
   nor #2(y,a,b);
 
   //global_vars gv;
-  //assign global_vars.count = global_vars.count+1;
+  global_vars.count = global_vars.count+1;
 
   /* at instantiation increment the resources used */
  
