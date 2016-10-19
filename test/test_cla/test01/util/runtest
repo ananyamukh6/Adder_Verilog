@@ -25,12 +25,12 @@
 
 # Script to run this test
 # Usage: runtest [no arguments]
-set -x
 UXLIB=../../../bin
 echo $1
-if [ -f out.txt ]; then
-    rm -r out.txt
+if [ -f out1.txt ]; then
+    rm -r out1.txt
 fi
 
 vsim -c -L $UXLIB -lic_plus -quiet -novopt -do util/simulate-do sample_cla_testbench > transcript
-cat out.txt 2> err.txt
+cat out1.txt 2> expected-error.txt
+#python postprocess.py

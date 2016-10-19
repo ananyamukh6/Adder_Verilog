@@ -42,6 +42,12 @@ module rc_adder16(sum, carry_out, a, b, carry_in);
     wire [15:0] c;
 
     assign carry_out = c[15];
+	
+	 initial begin
+       // descr = $fopen("out.txt");
+        //$fmonitor(descr, "a: %d, b: %d, carry_in: %d, sum: %d, carry_out: %d", $time, a, b, carry_in, sum, carry_out);
+		$monitor("%0d - a: %d, b: %d, carry_in: %d, sum: %d, carry_out: %d", $time, a, b, carry_in, sum, carry_out);
+    end
 
     full_adder fa0(sum[0], c[0], a[0], b[0], carry_in);
     full_adder fa1(sum[1], c[1], a[1], b[1], c[0]);
@@ -68,7 +74,10 @@ endmodule
 module full_adder(sum, carry_out, a, b, carry_in);
     output sum, carry_out;
     input a, b, carry_in;
-
+		
+	 initial begin
+	$display("hello full_adder\n");
+	end
     //sum = a xor b xor c;
     //carry_out = carry_in(a + b) + ab;
 

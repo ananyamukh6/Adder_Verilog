@@ -1,0 +1,670 @@
+# vsim -L ../../../bin -do util/simulate-do -c -lic_plus -quiet -novopt sample_rca_testbench 
+# Refreshing /afs/glue.umd.edu/home/glue/a/n/ananya/home/enpm674_user/Project2/project2-part1/bitbucket/test/test_rca1/test01/work.sample_rca_testbench
+# do util/simulate-do 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello full_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# 0 - a:    10, b:    22, carry_in: 0, sum:     x, carry_out: x
+# 8 - a:    10, b:    22, carry_in: 0, sum:     X, carry_out: x
+# 12 - a:    10, b:    22, carry_in: 0, sum:     X, carry_out: 0
+# 14 - a:    10, b:    22, carry_in: 0, sum:     X, carry_out: 0
+# 16 - a:    10, b:    22, carry_in: 0, sum:     X, carry_out: 0
+# 22 - a:    10, b:    22, carry_in: 0, sum:     X, carry_out: 0
+# 30 - a:    10, b:    22, carry_in: 0, sum:     X, carry_out: 0
+# 36 - a:    10, b:    22, carry_in: 0, sum:    32, carry_out: 0
+# 150 - a:    10, b:    22, carry_in: 1, sum:    32, carry_out: 0
+# 154 - a:    10, b:    22, carry_in: 1, sum:    33, carry_out: 0
+# 300 - a:    10, b:    22, carry_in: 0, sum:    33, carry_out: 0
+# 304 - a:    10, b:    22, carry_in: 0, sum:    32, carry_out: 0
+# 450 - a:    10, b:    22, carry_in: 1, sum:    32, carry_out: 0
+# 454 - a:    10, b:    22, carry_in: 1, sum:    33, carry_out: 0
+# 600 - a: 32768, b: 65535, carry_in: 0, sum:    33, carry_out: 0
+# 604 - a: 32768, b: 65535, carry_in: 0, sum:    32, carry_out: 0
+# 608 - a: 32768, b: 65535, carry_in: 0, sum: 65505, carry_out: 1
+# 610 - a: 32768, b: 65535, carry_in: 0, sum: 32707, carry_out: 1
+# 614 - a: 32768, b: 65535, carry_in: 0, sum: 32711, carry_out: 1
+# 618 - a: 32768, b: 65535, carry_in: 0, sum: 32647, carry_out: 1
+# 622 - a: 32768, b: 65535, carry_in: 0, sum: 32655, carry_out: 1
+# 626 - a: 32768, b: 65535, carry_in: 0, sum: 32527, carry_out: 1
+# 630 - a: 32768, b: 65535, carry_in: 0, sum: 32543, carry_out: 1
+# 634 - a: 32768, b: 65535, carry_in: 0, sum: 32287, carry_out: 1
+# 638 - a: 32768, b: 65535, carry_in: 0, sum: 32319, carry_out: 1
+# 642 - a: 32768, b: 65535, carry_in: 0, sum: 31807, carry_out: 1
+# 646 - a: 32768, b: 65535, carry_in: 0, sum: 31871, carry_out: 1
+# 650 - a: 32768, b: 65535, carry_in: 0, sum: 30847, carry_out: 1
+# 654 - a: 32768, b: 65535, carry_in: 0, sum: 30975, carry_out: 1
+# 658 - a: 32768, b: 65535, carry_in: 0, sum: 28927, carry_out: 1
+# 662 - a: 32768, b: 65535, carry_in: 0, sum: 29183, carry_out: 1
+# 666 - a: 32768, b: 65535, carry_in: 0, sum: 25087, carry_out: 1
+# 670 - a: 32768, b: 65535, carry_in: 0, sum: 25599, carry_out: 1
+# 674 - a: 32768, b: 65535, carry_in: 0, sum: 17407, carry_out: 1
+# 678 - a: 32768, b: 65535, carry_in: 0, sum: 18431, carry_out: 1
+# 682 - a: 32768, b: 65535, carry_in: 0, sum:  2047, carry_out: 1
+# 686 - a: 32768, b: 65535, carry_in: 0, sum:  4095, carry_out: 1
+# 688 - a: 32768, b: 65535, carry_in: 0, sum: 36863, carry_out: 1
+# 694 - a: 32768, b: 65535, carry_in: 0, sum: 40959, carry_out: 1
+# 702 - a: 32768, b: 65535, carry_in: 0, sum: 49151, carry_out: 1
+# 710 - a: 32768, b: 65535, carry_in: 0, sum: 65535, carry_out: 1
+# 716 - a: 32768, b: 65535, carry_in: 0, sum: 32767, carry_out: 1
+# 750 - a: 32767, b: 32767, carry_in: 1, sum: 32767, carry_out: 1
+# 756 - a: 32767, b: 32767, carry_in: 1, sum: 32766, carry_out: 1
+# 758 - a: 32767, b: 32767, carry_in: 1, sum: 32766, carry_out: 0
+# 760 - a: 32767, b: 32767, carry_in: 1, sum:     0, carry_out: 0
+# 762 - a: 32767, b: 32767, carry_in: 1, sum: 65535, carry_out: 0
+# 900 - a: 32768, b: 32768, carry_in: 0, sum: 65535, carry_out: 0
+# 904 - a: 32768, b: 32768, carry_in: 0, sum: 65534, carry_out: 0
+# 908 - a: 32768, b: 32768, carry_in: 0, sum: 65534, carry_out: 1
+# 910 - a: 32768, b: 32768, carry_in: 0, sum: 32766, carry_out: 1
+# 912 - a: 32768, b: 32768, carry_in: 0, sum:     0, carry_out: 1
+# 1050 - a:     0, b:     0, carry_in: 0, sum:     0, carry_out: 1
+# 1058 - a:     0, b:     0, carry_in: 0, sum:     0, carry_out: 0
+# 1200 - a: 65535, b: 65535, carry_in: 0, sum:     0, carry_out: 0
+# 1208 - a: 65535, b: 65535, carry_in: 0, sum: 65535, carry_out: 1
+# 1210 - a: 65535, b: 65535, carry_in: 0, sum:     0, carry_out: 1
+# 1212 - a: 65535, b: 65535, carry_in: 0, sum: 65534, carry_out: 1
+0, sum: 65534, carry_out: 1

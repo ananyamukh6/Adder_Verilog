@@ -3,15 +3,19 @@
 
 /* 2-input nor gate with resource counter and time delay
  */
-
 module my_nor(y, a, b);
   output y;
   input a, b;
   wire y;
+  
+  initial begin
+  $display("hello nor\n");
+  end
+  
   nor #2(y,a,b);
 
   //global_vars gv;
-  //gv.count= gv.count+1;
+  //assign global_vars.count = global_vars.count+1;
 
   /* at instantiation increment the resources used */
  

@@ -1,10 +1,10 @@
 Tests started on:
-Sun Oct 16 17:27:02 EDT 2016
+Tue Oct 18 20:37:06 EDT 2016
 -----------------------------------------------------
 Test result for:
-/homes/swkenney/enpm674_user/projects/project2/test/test_rca/test01
+/homes/ananya/enpm674_user/Project2/project2-part1/bitbucket/test/test_cla/test01
 -----------------------------------------------------
 Error comparison result for: 
-/homes/swkenney/enpm674_user/projects/project2/test/test_rca/test01
+/homes/ananya/enpm674_user/Project2/project2-part1/bitbucket/test/test_cla/test01
 Tests completed on:
-Sun Oct 16 17:27:04 EDT 2016
+Tue Oct 18 20:37:08 EDT 2016

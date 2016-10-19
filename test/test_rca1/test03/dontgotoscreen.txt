@@ -1,0 +1,6 @@
+
+0 - a: 65535, b: 65535, carry_in: 0, sum:     x, carry_out: x
+8 - a: 65535, b: 65535, carry_in: 0, sum:     x, carry_out: 1
+10 - a: 65535, b: 65535, carry_in: 0, sum:     X, carry_out: 1
+12 - a: 65535, b: 65535, carry_in: 0, sum: 65534, carry_out: 1
+65534 1

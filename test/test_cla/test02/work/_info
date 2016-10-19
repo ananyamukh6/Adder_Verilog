@@ -3,257 +3,126 @@ K4
 z2
 13
 cModel Technology
-Z0 d/homes/swkenney/enpm674_user/projects/project2/test/test_rca/test01
+Z0 d/homes/ananya/enpm674_user/Project2/project2-part1/bitbucket/test/test_cla/test01
 !s112 0.1
 !i10d 8192
 !i10e 25
 !i10f 100
-T_opt
-V1OA>Ok6oQPCOiIk1fhG0L0
-04 20 4 work sample_cla_testbench fast 0
-=1-0019b9bbf958-5804205b-dda24-7311
-o-quiet -auto_acc_if_foreign -work work -L ../../../bin
-n@_opt
-OL;O;10.2c;57
-Z1 d/homes/swkenney/enpm674_user/projects/project2/test/test_rca/test01
-!s110 1476665436
 vglobal_vars
-!s110 1476666996
-!s100 Vj=zRg^[:bR`^W9<8TTQK1
-I[=A6FSO[48a59?RYUdO952
-Z2 V`JN@9S9cnhjKRR_L]QIcM3
-Z3 d/homes/swkenney/enpm674_user/projects/project2/test/test_cla/test02
-Z4 w1476666978
-Z5 F../../../src/myGlbl.v
-Z6 8sample_cla_testbench.v
-Z7 Fsample_cla_testbench.v
+!s110 1476837133
+!s100 a7fN>m8hIf408RlYIF<T?2
+Io[54797G>2UWFgcZ1aPga1
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 d/homes/ananya/enpm674_user/Project2/project2-part1/bitbucket/test/test_cla/test01
+Z3 w1476836962
+F../../../src/myGlbl.v
+Z4 8sample_cla_testbench.v
+Z5 Fsample_cla_testbench.v
 L0 6
-Z8 OL;L;10.2c;57
+Z6 OL;L;10.2c;57
 r1
 31
-Z9 !s108 1476666996.122879
-Z10 !s107 ../../../src/myGlbl.v|sample_cla_testbench.v|
-Z11 !s90 sample_cla_testbench.v|
-Z12 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-!i10b 1
-!s85 0
-!i111 0
-vmy_and
-Z13 !s110 1476663526
-IKHMUSkS@C0=aBl0dfZC_:0
-R2
-Z14 d/homes/swkenney/enpm674_user/projects/project2/test/test_cla/test01
-w0
-Z15 8../../../src/myLibs.v
-Z16 F../../../src/myLibs.v
-L0 25
-R8
-r1
-31
-Z17 !s108 1476663526.266968
-Z18 !s107 ../../../src/myLibs.v|../../../src/myGlbl.v|sample_cla_testbench.v|
-R11
-R12
-!s100 442mFIfH1C0A1AeiJGXS@2
-!i10b 1
-!s85 0
-!i111 0
-vmy_and3
-R13
-IJC2dEd>O1jKFBVhS0OR`i2
-R2
-R14
-w0
-R15
-R16
-L0 37
-R8
-r1
-31
-R17
-R18
-R11
-R12
-!s100 i:dj3`c7@[`]h2zJ^dd`I2
-!i10b 1
-!s85 0
-!i111 0
-vmy_and4
-R13
-IBU?o_lgQNOgzR_PnFzaF60
-R2
-R14
-w0
-R15
-R16
-L0 48
-R8
-r1
-31
-R17
-R18
-R11
-R12
-!s100 a_87k3L?2kfg8D0okW0dB1
-!i10b 1
-!s85 0
-!i111 0
-vmy_or
-R13
-IV?B:Ujj>`@75hJQiId0oU1
-R2
-R14
-w0
-R15
-R16
-L0 61
-R8
-r1
-31
-R17
-R18
-R11
-R12
-!s100 olG_W0GzoK1f``:zL0?Nz1
-!i10b 1
-!s85 0
-!i111 0
-vmy_or3
-R13
-IR5Sb`Qoi;]:R_5g16lnC11
-R2
-R14
-w0
-R15
-R16
-L0 72
-R8
-r1
-31
-R17
-R18
-R11
-R12
-!s100 cjG<8JmCzQ=^_a@Q8VC3Z1
-!i10b 1
-!s85 0
-!i111 0
-vmy_or4
-R13
-IOFelh9R2P@AnBn:z;jD520
-R2
-R14
-w0
-R15
-R16
-L0 84
-R8
-r1
-31
-R17
-R18
-R11
-R12
-!s100 PAD]E@YLJoDf42j>Rz9iZ3
-!i10b 1
-!s85 0
-!i111 0
-vmy_xor
-R13
-IKDm=D<;7_5@e2VfPHP8f>2
-R2
-R14
-w0
-R15
-R16
-L0 96
-R8
-r1
-31
-R17
-R18
-R11
-R12
-!s100 [G>D542Nz6?0I5?XU^gci1
-!i10b 1
-!s85 0
-!i111 0
-vMyGlbl
-I=0OJ^8XcWc^_HFzBW1H`k3
-R2
-R14
-w1476660675
-R5
-R6
-R7
-L0 6
-R8
-r1
-31
-R11
-R12
-n@my@glbl
-R10
-!s108 1476660679.816829
-!s110 1476660679
-!s100 6Y4S66M5@d76LmARgY2XS0
+Z7 !s108 1476837133.346207
+Z8 !s107 ../../../src/myGlbl.v|sample_cla_testbench.v|
+Z9 !s90 sample_cla_testbench.v|
+Z10 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
 !i10b 1
 !s85 0
 !i111 0
 vsample_cla_testbench
-R2
+R1
 r1
 !s85 0
 31
-I7emmKEKZ2OMl=:WzEC:3V0
+!s100 jeDAc<Tm[gem^imQGW;ze1
+I0K6lnc=Ro2;QQSM@>]`6J3
+R2
 R3
 R4
+R5
+L0 32
 R6
 R7
-L0 32
 R8
 R9
 R10
-R11
-R12
 !i10b 1
-!s100 nC5kk;MMC3:K<nIPF<c0S1
 !i111 0
 vsample_rca_driver
-R2
+R1
 r1
 31
-IRQfJS0hndWgZnz2=V]JI62
-R1
-Z19 w1476633164
+I;6ViXDTKI`oFmdEadV_j:2
+Z11 d/afs/glue.umd.edu/home/glue/a/n/ananya/home/enpm674_user/Project2/project2-part1/bitbucket/test/test_rca/test01
+w1476767770
 8sample_rca_driver.v
 Fsample_rca_driver.v
 L0 31
-R8
-R12
-!s100 iG2XN>IGzYc]OQ5TNYMOg1
+R6
+R10
 !s90 sample_rca_driver.v|
-!s108 1476657153.863089
+!s100 Jg7TVgn6<^FkP<=W>W3b72
+!s108 1476767773.923972
 !s107 sample_rca_driver.v|
 !s85 0
 !i10b 1
 !i111 0
-vsample_rca_toplevel
+vsample_rca_testbench
+IoAm_6NWETF1WQNTK=cB7?3
+R1
 R2
+w1476836628
+8sample_rca_testbench.v
+Fsample_rca_testbench.v
+L0 32
+R6
+r1
+31
+R10
+!s110 1476836647
+!s100 XZ6ZAD;RoXn8ez0kHWkGC3
+!s108 1476836647.597648
+!s107 ../../../src/myGlbl.v|sample_rca_testbench.v|
+!s90 sample_rca_testbench.v|
+!i10b 1
+!s85 0
+!i111 0
+vsample_rca_toplevel
+R1
 r1
 31
 IiEo099FGMjAIG>7OEm9^f2
-R1
-R19
+R11
+w1476763670
 8util/sample_rca_toplevel.v
 Futil/sample_rca_toplevel.v
 L0 30
-R8
-R12
+R6
+R10
 !s100 mM8<0H1=zodi=<QbT;<3^2
 !s90 util/sample_rca_toplevel.v|
-!s108 1476657153.984723
+!s108 1476767773.993054
 !s107 util/sample_rca_toplevel.v|
 !s85 0
 !i10b 1
+!i111 0
+vtestbench
+I<f[K88@5zGl2I7Kg^oHae0
+R1
+R2
+w1476495758
+R4
+R5
+L0 32
+R6
+r1
+31
+R8
+R9
+R10
+!s110 1476498921
+!s100 L`YT=U<T2zHNKnBU8dY?n1
+!s108 1476498921.477440
+!i10b 1
+!s85 0
 !i111 0

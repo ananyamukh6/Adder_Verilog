@@ -43,34 +43,33 @@ module sample_cla_testbench;
 	cla_adder16 adder16(sum, carry_out, a, b, carry_in);
 	
     initial begin
-        descr = $fopen("out.txt");
+        descr = $fopen("out1.txt");
 	//resources = global_vars.count;
 	/* print the number of gates used. */
-	//$fdisplay(descr, "NOR Gates = %d", resources);
+//$fdisplay(descr, "NOR Gates = %d", resources);
         $fmonitor(descr, "%0d - a: %d, b: %d, carry_in: %d, sum: %d, carry_out: %d",
             $time, a, b, carry_in, sum, carry_out);
     end
 
     initial begin		 
-     	a = 16'd7; b = 16'd7; carry_in = 0;
-	 //  a = 16'd32000; b = 16'd15000; carry_in = 0;
-        #100
-     	a = 16'd1; b = 16'd1; carry_in = 0;
-	 //  a = 16'd32000; b = 16'd15000; carry_in = 0;
-        #100
-     	a = 16'd2; b = 16'd2; carry_in = 0;
-	 //  a = 16'd32000; b = 16'd15000; carry_in = 0;
-        #100
-	a = 16'd125; b=125; carry_in = 0;
-       // a = 16'd11111; b = 16'd11111; carry_in = 1;
-        #100
-	a = 2000; b = 2000; carry_in = 0;
-      //  a = 16'd10101; b = 16'd01010; carry_in = 1;
-        #100
-	a = 1000; b = 1000; carry_in = 0;
-	#100
-	a = 30000; b = 30000; carry_in = 0;
-      //  a = 16'd50000; b = 16'd499; carry_in = 1;
+ a = 16'd10; b = 16'd22; carry_in = 0;
+        #150
+        a = 16'd10; b = 16'd22; carry_in = 1;
+        #150
+        a = 16'd10; b = 16'd22; carry_in = 0;
+        #150
+        a = 16'd10; b = 16'd22; carry_in = 1;
+                #150
+                a = 16'd32768; b = 16'd65535; carry_in = 0;
+                #150
+                a = 16'd32767; b = 16'd32767; carry_in = 1;
+                #150
+                a = 16'd32768; b = 16'd32768; carry_in = 0;
+                #150
+                a = 16'd0; b = 16'd0; carry_in = 0;
+                #150
+                a = 16'd65535; b = 16'd65535; carry_in = 0;
+
     end
 
 endmodule

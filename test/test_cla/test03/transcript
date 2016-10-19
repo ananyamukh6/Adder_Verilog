@@ -1,5 +1,1289 @@
 # vsim -L ../../../bin -do util/simulate-do -c -lic_plus -quiet -novopt sample_cla_testbench 
-# Refreshing /afs/glue.umd.edu/home/glue/s/w/swkenney/home/enpm674_user/projects/project2/test/test_cla/test03/work.sample_cla_testbench
+# Refreshing /afs/glue.umd.edu/home/glue/a/n/ananya/home/enpm674_user/Project2/project2-part1/bitbucket/test/test_cla/test01/work.sample_cla_testbench
 # do util/simulate-do 
-ench
-# do util/simulate-do 
+# hello cla_generator4
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_generator4
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_generator4
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_generator4
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_generator4
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello cla_adder
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+# hello nor
+# 
+hello nor
+# 
+# hello nor
+# 

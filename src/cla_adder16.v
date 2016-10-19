@@ -50,7 +50,7 @@ module cla_adder16 (sum, carry_out, a, b, carry_in);
     assign carrys1 = {c1, carry_in};
     assign carrys =  {c0[11:9], c1[2], c0[8:6], c1[1], c0[5:3], c1[0], c0[2:0], carry_in};
 
-    cla_generator4 cla_gen4_0(c1,P_out,G_out,cIn,P,G);
+    cla_generator4 cla_gen4_0(c1,P_out,G_out,carry_in,P,G);
     cla_generator4 cla_gen4_1[3:0](c0, P, G, carrys1, p, g);    
     cla_adder cla_add[15:0](sum, p, g, a, b, carrys);		
     my_and cc1(c41, P_out,  carry_in);
@@ -68,6 +68,10 @@ module cla_adder(sum, p, g, a, b, c);
     input c;
 
     wire w1;
+	
+	 initial begin
+	$display("hello cla_adder\n");
+	end
     
     my_xor xor1(w1, a, b);
     my_xor xor2(sum, w1, c);
@@ -83,6 +87,10 @@ module cla_generator4(c, P, G, carry_in, p, g);
     output G;
     input carry_in;
     input [3:0] p, g;
+	
+	initial begin
+	$display("hello cla_generator4\n");
+	end
 
     /* c1 */
     my_and cc11(c11 ,carry_in, p[0]);
