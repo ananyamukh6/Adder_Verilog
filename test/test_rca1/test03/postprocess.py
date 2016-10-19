@@ -4,7 +4,7 @@ testFreq = 150
 lines = open('out1.txt').readlines()
 f = open('out.txt', 'w')
 s = 0; c = 0.
-for lineNum in range(len(lines)):
+for lineNum in range(1,len(lines)):
 	line = lines[lineNum]
 	timeStamp = int(line.split('-')[0])
 	if timeStamp%testFreq == 0 and timeStamp > 0:
