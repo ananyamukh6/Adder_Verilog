@@ -6,7 +6,7 @@ f = open('out.txt', 'w')
 s = 0; c = 0.
 for lineNum in range(len(lines)):
 	line = lines[lineNum]
-	timeStamp = int(line.split('-')[0])
+	timeStamp = int(1,line.split('-')[0])
 	if timeStamp%testFreq == 0 and timeStamp > 0:
 		prevLine = lines[lineNum-1]
 		t = prevLine.split('sum:')[1].split('carry_out:')
