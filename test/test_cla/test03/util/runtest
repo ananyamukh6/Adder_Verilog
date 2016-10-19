@@ -31,6 +31,6 @@ if [ -f out1.txt ]; then
     rm -r out1.txt
 fi
 
-vsim -c -L $UXLIB -lic_plus -quiet -novopt -do util/simulate-do sample_cla_testbench > transcript
+vsim -c -L $UXLIB -lic_plus -quiet -novopt -do util/simulate-do global_vars sample_cla_testbench > transcript
 cat out1.txt 2> expected-error.txt
 #python postprocess.py
